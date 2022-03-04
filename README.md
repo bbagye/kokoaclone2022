@@ -1,3 +1,3 @@
-# Kokoa clone 2022 Update
+# Kokoa clone 2022
 
-CSS
+HTML&CSS
